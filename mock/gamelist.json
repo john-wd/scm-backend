@@ -1,0 +1,27 @@
+{
+    "ok": true,
+    "game_count": 4,
+    "total_song_count": 72422,
+    "games": [
+        {
+            "game_id": 277,
+            "game_name": "Pok\u00e9mon Black & White",
+            "song_count": 208
+        },
+        {
+            "game_id": 1192,
+            "game_name": "Pok\u00e9mon Black 2 & White 2",
+            "song_count": 126
+        },
+        {
+            "game_id": 785,
+            "game_name": "Pok\u00e9mon Emerald",
+            "song_count": 21
+        },
+        {
+            "game_id": 73,
+            "game_name": "Pok\u00e9mon HeartGold & SoulSilver",
+            "song_count": 230
+        }
+    ]
+}
